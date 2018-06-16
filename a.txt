@@ -1,2 +1,6 @@
-this is first line
+
+this is first line <<<<<<< HEAD
 this is third line edited in master
+=======
+this is second line in feature
+>>>>>>> feature
